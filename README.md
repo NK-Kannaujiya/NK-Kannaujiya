@@ -45,20 +45,30 @@
 
 ## 📊 GitHub Analytics  
 
-<p align="">
+<p align="center">
+  <!-- Overall stats -->
   <a href="https://github.com/NK-Kannaujiya">
     <img src="https://github-readme-stats.vercel.app/api?username=NK-Kannaujiya&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   </a>
+
+  <!-- Streak stats -->
   <a href="https://github.com/NK-Kannaujiya">
     <img src="https://streak-stats.demolab.com/?user=NK-Kannaujiya&theme=tokyonight&hide_border=true" height="165"/>
   </a>
 </p>
 
-<p align="">
+<p align="center">
+  <!-- Top languages -->
   <a href="https://github.com/NK-Kannaujiya">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NK-Kannaujiya&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
   </a>
+
+  <!-- Trophy board (click opens trophy repo) -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=NK-Kannaujiya&theme=tokyonight&margin-w=5&margin-h=5&no-frame=true" height="165"/>
+  </a>
 </p>
+
 
 ---
 
