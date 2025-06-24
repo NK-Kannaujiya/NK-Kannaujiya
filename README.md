@@ -55,13 +55,15 @@
   <a href="https://github.com/NK-Kannaujiya">
     <img src="https://streak-stats.demolab.com/?user=NK-Kannaujiya&theme=tokyonight&hide_border=true" height="165"/>
   </a>
+
+  <a href="https://github.com/NK-Kannaujiya">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NK-Kannaujiya&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  </a>
 </p>
 
 <p align="center">
   <!-- Top languages -->
-  <a href="https://github.com/NK-Kannaujiya">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NK-Kannaujiya&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-  </a>
+
 
   <!-- Trophy board (click opens trophy repo) -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
