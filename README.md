@@ -8,7 +8,7 @@
 
 ### 💼 About Me
 
-- 🔧 Currently working at **CDAC Bengaluru** as a Full Stack Developer  
+- 🔧 Currently working at **CDAC Bengaluru** as a Full Stack Software Enginner
 - 💡 Passionate about **backend systems**, **API design**, and **clean, scalable architecture**  
 - 🧠 Always learning: diving deeper into **system design** and **distributed systems**  
 - 🤝 Open to backend-focused or full stack opportunities  
