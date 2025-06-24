@@ -62,7 +62,10 @@
   <a href="https://github.com/NK-Kannaujiya">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NK-Kannaujiya&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
   </a>
-
+  <!-- Metrics card -->
+  <a href="https://github.com/NK-Kannaujiya">
+    <img src="https://metrics.lecoq.io/NK-Kannaujiya?template=classic&languages=1&isocalendar=1&base=header,activity&theme=tokyonight&base_hireable=false&config.timezone=Asia%2FCalcutta" height="165"/>
+  </a>
   <!-- Trophy board (click opens trophy repo) -->
  <!-- <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=NK-Kannaujiya&theme=tokyonight&margin-w=5&margin-h=5&no-frame=true" height="165"/>
