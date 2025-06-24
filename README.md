@@ -54,7 +54,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="">
   <a href="https://github.com/NK-Kannaujiya">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NK-Kannaujiya&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
   </a>
