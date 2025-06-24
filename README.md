@@ -1,61 +1,66 @@
 <h1 align="center">Hi 👋, I'm Nitesh Kumar Kannaujiya</h1>
 
 <p align="center">
-  🚀 Full Stack Software Engineer | Backend Focused | Clean Code Enthusiast  
+  <strong>Full-Stack Software Engineer | Backend Focused | Clean-Code Advocate</strong>
 </p>
 
 ---
 
-### 💼 About Me
-
-- 🔧 Currently working at **CDAC Bengaluru** as a Full Stack Software Enginner
-- 💡 Passionate about **backend systems**, **API design**, and **clean, scalable architecture**  
-- 🧠 Always learning: diving deeper into **system design** and **distributed systems**  
-- 🤝 Open to backend-focused or full stack opportunities  
+## 💼 About Me
+- 🔧 Currently building internal tools at **CDAC Bengaluru**  
+- 🧠 Always learning → system design & distributed systems  
+- 🤝 Open to backend-heavy & full-stack roles  
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Toolbelt  
 
-**Languages & Frameworks:**  
-`Java` `JavaScript` `C++` `Python`  
-`Spring Boot` `Node.js` `FastAPI` `React.js`
-
-**Databases:**  
-`MySQL` `MongoDB`
-
-**Tools & Platforms:**  
-`Git` `Docker` `Postman` `VS Code` `Kubernetes` `Linux` `JWT` `Agile`
-
----
-
-### 🚀 Projects
-
-#### 🖥️ Process Scheduling Simulator  
-A full stack simulation tool to visualize CPU scheduling algorithms (FCFS, SJF, Round Robin, Priority).  
-**Stack:** React.js, Spring Boot, REST APIs, MySQL
-
-#### 🔗 Decentralized Drive  
-Blockchain-based file storage platform using IPFS and Solidity. Supports decentralized image upload with secure smart contracts.  
-**Stack:** React.js, Hardhat, Solidity, Pinata (IPFS)
-
-#### 🧾 Asset Management System (CDAC)  
-Internal tool to track and manage hardware assets with secure login and backend workflows.  
-**Stack:** FastAPI, React.js, JWT, MySQL, Docker
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Projects
+| Project | Stack | Brief |
+|---------|-------|-------|
+| **Process Scheduling Simulator** | React · Spring Boot · REST · MySQL | Visualizes CPU scheduling (FCFS, SJF, RR, Priority) with live Gantt charts |
+| **Decentralized Drive** | React · Solidity · Hardhat · IPFS | Decentralized image storage with smart-contracts & Pinata |
+| **Asset Management System** | FastAPI · React · JWT · Docker | Tracks internal hardware assets with secure CRUD APIs |
+
+---
+
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NK-Kannaujiya&show_icons=true&theme=default" alt="Nitesh's GitHub Stats" />
+  <a href="https://github.com/NK-Kannaujiya">
+    <img src="https://github-readme-stats.vercel.app/api?username=NK-Kannaujiya&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  </a>
+  <a href="https://github.com/NK-Kannaujiya">
+    <img src="https://streak-stats.demolab.com/?user=NK-Kannaujiya&theme=tokyonight&hide_border=true" height="165"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/NK-Kannaujiya">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NK-Kannaujiya&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  </a>
 </p>
 
 ---
 
-### 📫 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/nitesh-kumar-kannaujiya-99b701228/)
-
----
-
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/nitesh-kumar-kannaujiya-99b701228/)
