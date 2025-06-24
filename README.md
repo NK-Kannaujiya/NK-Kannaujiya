@@ -39,7 +39,7 @@
 |---------|-------|-------|
 | **Process Scheduling Simulator** | React · Spring Boot · REST · MySQL | Visualizes CPU scheduling (FCFS, SJF, RR, Priority) with live Gantt charts |
 | **Decentralized Drive** | React · Solidity · Hardhat · IPFS | Decentralized image storage with smart-contracts & Pinata |
-| **Asset Management System** | FastAPI · React · JWT · Docker | Tracks internal hardware assets with secure CRUD APIs |
+
 
 ---
 
