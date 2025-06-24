@@ -45,7 +45,7 @@
 
 ## 📊 GitHub Analytics  
 
-<p align="center">
+<p align="">
   <!-- Overall stats -->
   <a href="https://github.com/NK-Kannaujiya">
     <img src="https://github-readme-stats.vercel.app/api?username=NK-Kannaujiya&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
