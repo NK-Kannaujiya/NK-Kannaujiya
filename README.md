@@ -31,7 +31,7 @@ Building scalable backend systems, REST APIs, microservices, and intelligent sof
 ## 🚀 Current Focus
 
 ```text
-✓ Java 21
+✓ Java 21, Java 17, Java 8
 ✓ Spring Boot
 ✓ REST APIs
 ✓ Microservices Architecture
